@@ -19,7 +19,8 @@
 
 ## Preview
 
-<img src="README/dashboard1.png"><br>
+<img src="README/dashboard.gif"><br><br>
+<img src="README/dashboard1.png"><br><br>
 <img src="README/dashboard2.png">
 
 ### กลุ่ม S.O.Pang
